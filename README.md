@@ -1,4 +1,5 @@
 # FileUpload
+COS lib의 multipart Request 클래스를 이
 파일 업로드 및 다운로드 기능의 페이지 구현
 
 ![index](https://user-images.githubusercontent.com/42952319/90126810-33fd5380-dd9f-11ea-9a58-e25579d27c09.PNG)
